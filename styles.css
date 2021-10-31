@@ -7,6 +7,10 @@
   font-family: 'Poppins', sans-serif;
 }
 
+html{
+  min-height: 100vh;
+}
+
 body{
   background-image: linear-gradient(to bottom right, #4affde 0%, #5b9dff 40%, #d06bff 60%, #ff34d2 100%);
 
